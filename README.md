@@ -1,4 +1,4 @@
-# Exploring impact of meditation on my sleep and health
+# Exploring the impact of meditation on my sleep and health
 
 I have been meditating on and off since March 2020. I was wondering if my meditation practice started to already impact my sleep and heart health. So, I analyzed my Oura Ring data with regards to meditation. This is what I found:
 
