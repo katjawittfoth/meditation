@@ -9,7 +9,7 @@ I have been meditating on and off starting March last year. I was wondering if m
 
 * My Sleep Score seems to be slightly better on the days of meditation or the days following my meditation sessions.
 
-<p align="center"> <img src="plots/line_chart.png" align="middle" width=600>
+<p align="center"> <img src="plots/bar_chart.png" align="middle" width=600>
 </p>
 
 Of course, this was just a fun experiment and we can't conclude anything more serious. 😀
